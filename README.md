@@ -1,2 +1,2 @@
-# FRC4453_COTS_CAD
+# FRC4453_COTS
 Off the shelf CAD
